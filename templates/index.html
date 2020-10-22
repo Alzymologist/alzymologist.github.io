@@ -9,12 +9,12 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, viewport-fit=cover">
 
       <title>{% block title %}{{ config.title }}{% endblock title %}</title>
-      <link rel="shortcut icon" href="images/logofav.png">
+      <link rel="shortcut icon" href="/images/logofav.png">
 
       <!-- CSS -->
-      <link rel="stylesheet" href="print.css" media="print">
-      <link rel="stylesheet" href="poole.css">
-      <link rel="stylesheet" href="hyde.css">
+      <link rel="stylesheet" href="/print.css" media="print">
+      <link rel="stylesheet" href="/poole.css">
+      <link rel="stylesheet" href="/hyde.css">
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
       {% if config.generate_feed %}
@@ -31,7 +31,7 @@
                 <div class="container {% if config.extra.hyde_sticky %}sidebar-sticky{% endif %}">
                     <div class="sidebar-about">
                         {% block sidebar_about %}
-			<a href="{{ config.base_url }}"><img src="images/logowhite.svg"></a>
+			<a href="{{ config.base_url }}"><img src="/images/logowhite.svg"></a>
                             {% if config.description %}
                             <p class="lead">{{config.description}}</p>
                             {% endif %}
