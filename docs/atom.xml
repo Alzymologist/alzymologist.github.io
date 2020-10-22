@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 	<title>Alzymologist Oy</title>
-	<subtitle>Laboratory services for microbrewers</subtitle>
+	<subtitle>Laboratory for microbrewers</subtitle>
 	<link href="http://www.zymologia.fi/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="http://www.zymologia.fi"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>

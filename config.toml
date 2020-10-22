@@ -1,7 +1,7 @@
 base_url = "http://www.zymologia.fi"
 compile_sass = true
 title = "Alzymologist Oy"
-description = "Laboratory services for microbrewers"
+description = "Laboratory for microbrewers"
 generate_feed = true
 
 [extra]
