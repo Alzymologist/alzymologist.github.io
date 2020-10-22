@@ -3,6 +3,8 @@ title = "About Alzymologist Oy"
 date = 2020-10-20
 +++
 
+Business ID: 3162030-9
+
 ***This page is under construction***
 
 ## Our mission
