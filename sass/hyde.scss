@@ -60,6 +60,7 @@ html {
   background-color: #005500;
 }
 @media (min-width: 48em) {
+@media (min-height: 50em){
   .sidebar {
     position: fixed;
     top: 0;
@@ -67,7 +68,7 @@ html {
     bottom: 0;
     width: 18rem;
     text-align: left;
-  }
+  }}
 }
 
 /* Sidebar links */
@@ -106,6 +107,7 @@ a.sidebar-nav-item:focus {
  */
 
 @media (min-width: 48em) {
+@media (min-height: 50em){
   .sidebar-sticky {
     position: absolute;
     right:  1rem;
@@ -126,7 +128,7 @@ a.sidebar-nav-item:focus {
         padding-right: m#{a}x(1rem, env(safe-area-inset-right));
     }
   }
-}
+}}
 
 
 /* Container
