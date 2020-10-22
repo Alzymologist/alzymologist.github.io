@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: zymologia.fi/sitemap.xml
+Sitemap: www.zymologia.fi/sitemap.xml
