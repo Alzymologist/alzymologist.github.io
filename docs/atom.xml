@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 	<title>Alzymologist Oy</title>
 	<subtitle>Laboratory for microbrewers</subtitle>
-	<link href="http://www.zymologia.fi/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="http://www.zymologia.fi"/>
+	<link href="https://www.zymologia.fi/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://www.zymologia.fi"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2020-10-20T00:00:00+00:00</updated>
-	<id>http://www.zymologia.fi/atom.xml</id>
+	<id>https://www.zymologia.fi/atom.xml</id>
 	<entry xml:lang="en">
 		<title>Our website is up!</title>
 		<published>2020-10-20T00:00:00+00:00</published>
 		<updated>2020-10-20T00:00:00+00:00</updated>
-		<link href="http://www.zymologia.fi/blog/2020-10-20/" type="text/html"/>
-		<id>http://www.zymologia.fi/blog/2020-10-20/</id>
+		<link href="https://www.zymologia.fi/blog/2020-10-20/" type="text/html"/>
+		<id>https://www.zymologia.fi/blog/2020-10-20/</id>
 		<content type="html">&lt;p&gt;This is the first post, mostly to test if the website is working properly.&lt;&#x2F;p&gt;
 &lt;p&gt;We have just founded the company, we still have almost no equipment and proper lab, but you&#x27;ve got to start somewhere!&lt;&#x2F;p&gt;
 &lt;p&gt;If you somehow came across this place now, please - &lt;a href=&quot;mailto:contact@zymologia.fi&quot;&gt;let us know what you think&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
@@ -23,16 +23,16 @@
 		<title>ABCS methods table</title>
 		<published>2020-10-20T00:00:00+00:00</published>
 		<updated>2020-10-20T00:00:00+00:00</updated>
-		<link href="http://www.zymologia.fi/info/abcs/" type="text/html"/>
-		<id>http://www.zymologia.fi/info/abcs/</id>
+		<link href="https://www.zymologia.fi/info/abcs/" type="text/html"/>
+		<id>https://www.zymologia.fi/info/abcs/</id>
 		<content type="html"></content>
 	</entry>
 	<entry xml:lang="en">
 		<title>About Alzymologist Oy</title>
 		<published>2020-10-20T00:00:00+00:00</published>
 		<updated>2020-10-20T00:00:00+00:00</updated>
-		<link href="http://www.zymologia.fi/info/about/" type="text/html"/>
-		<id>http://www.zymologia.fi/info/about/</id>
+		<link href="https://www.zymologia.fi/info/about/" type="text/html"/>
+		<id>https://www.zymologia.fi/info/about/</id>
 		<content type="html">&lt;p&gt;Business ID: 3162030-9&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;our-mission&quot;&gt;Our mission&lt;&#x2F;h2&gt;
@@ -44,7 +44,7 @@
 &lt;p&gt;We value good beer. Of course, &lt;em&gt;consistent&lt;&#x2F;em&gt; beer is something from the world of mass production, but what is really important - &lt;em&gt;consistently good&lt;&#x2F;em&gt; beer - belongs to microbrewers.&lt;&#x2F;p&gt;
 &lt;p&gt;We value straightforwardness and openness. We tell you what we do and why, who we are and what we know.&lt;&#x2F;p&gt;
 &lt;p&gt;We value community power. Working together - many microbrewers outsourcing analysis to our lab - makes our project possible. Everyone will have all the tools and expertise. And we share back - all scientific knowledge we produce ourselves we will freely share with people. Even this website is powered by &lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;&quot;&gt;FOSS&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
-&lt;p&gt;At the same time, we value intellectual property. Your data is your data, we will keep it secure. All clients data is stored and processed separately - unless you ask us otherwise. Even our email is encrypted. &lt;a href=&quot;http:&#x2F;&#x2F;www.zymologia.fi&#x2F;info&#x2F;gdpr&#x2F;&quot;&gt;Read our data protection statement&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;At the same time, we value intellectual property. Your data is your data, we will keep it secure. All clients data is stored and processed separately - unless you ask us otherwise. Even our email is encrypted. &lt;a href=&quot;https:&#x2F;&#x2F;www.zymologia.fi&#x2F;info&#x2F;gdpr&#x2F;&quot;&gt;Read our data protection statement&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;We value personality. Microbrewing is based on small scale, on individuals rather than corporations. We strive to keep this spirit - so &lt;a href=&quot;mailto:contact@zymologia.fi&quot;&gt;contact us!&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Do you share our values? Let&#x27;s make great beers together!&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;our-goals&quot;&gt;Our goals&lt;&#x2F;h2&gt;
@@ -63,16 +63,16 @@
 		<title>EBC methods table</title>
 		<published>2020-10-20T00:00:00+00:00</published>
 		<updated>2020-10-20T00:00:00+00:00</updated>
-		<link href="http://www.zymologia.fi/info/ebc/" type="text/html"/>
-		<id>http://www.zymologia.fi/info/ebc/</id>
+		<link href="https://www.zymologia.fi/info/ebc/" type="text/html"/>
+		<id>https://www.zymologia.fi/info/ebc/</id>
 		<content type="html"></content>
 	</entry>
 	<entry xml:lang="en">
 		<title>Privacy policy</title>
 		<published>2020-10-20T00:00:00+00:00</published>
 		<updated>2020-10-20T00:00:00+00:00</updated>
-		<link href="http://www.zymologia.fi/info/gdpr/" type="text/html"/>
-		<id>http://www.zymologia.fi/info/gdpr/</id>
+		<link href="https://www.zymologia.fi/info/gdpr/" type="text/html"/>
+		<id>https://www.zymologia.fi/info/gdpr/</id>
 		<content type="html">&lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;personal-data&quot;&gt;Personal data&lt;&#x2F;h2&gt;
 &lt;p&gt;This is a completely static website, we are not collecting any information and we do not track users.&lt;&#x2F;p&gt;
@@ -85,16 +85,16 @@
 		<title>MEBAK methods table</title>
 		<published>2020-10-20T00:00:00+00:00</published>
 		<updated>2020-10-20T00:00:00+00:00</updated>
-		<link href="http://www.zymologia.fi/info/mebak/" type="text/html"/>
-		<id>http://www.zymologia.fi/info/mebak/</id>
+		<link href="https://www.zymologia.fi/info/mebak/" type="text/html"/>
+		<id>https://www.zymologia.fi/info/mebak/</id>
 		<content type="html"></content>
 	</entry>
 	<entry xml:lang="en">
 		<title>Our capabilities</title>
 		<published>2020-10-20T00:00:00+00:00</published>
 		<updated>2020-10-20T00:00:00+00:00</updated>
-		<link href="http://www.zymologia.fi/info/methods/" type="text/html"/>
-		<id>http://www.zymologia.fi/info/methods/</id>
+		<link href="https://www.zymologia.fi/info/methods/" type="text/html"/>
+		<id>https://www.zymologia.fi/info/methods/</id>
 		<content type="html">&lt;h2 id=&quot;custom-analysis&quot;&gt;Custom analysis&lt;&#x2F;h2&gt;
 &lt;p&gt;This list is not exhaustive, but holds only popular methods.&lt;br&gt;
 Don&#x27;t see something you need? &lt;a href=&quot;mailto:contact@zymologia.fi&quot;&gt;Contact us!&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -105,8 +105,8 @@ Don&#x27;t see something you need? &lt;a href=&quot;mailto:contact@zymologia.fi&
 		<title>Pricing guide</title>
 		<published>2020-10-20T00:00:00+00:00</published>
 		<updated>2020-10-20T00:00:00+00:00</updated>
-		<link href="http://www.zymologia.fi/info/pricing/" type="text/html"/>
-		<id>http://www.zymologia.fi/info/pricing/</id>
+		<link href="https://www.zymologia.fi/info/pricing/" type="text/html"/>
+		<id>https://www.zymologia.fi/info/pricing/</id>
 		<content type="html">&lt;h2 id=&quot;general-rules&quot;&gt;General rules&lt;&#x2F;h2&gt;
 &lt;p&gt;All pricing is determined on case-by-case basis. Most tests are priced at €20 - €200 depending on test complexity and number of samples. The more services are ordered, the lower the price of each will be; this is deliberately done for three reasons:&lt;&#x2F;p&gt;
 &lt;ul&gt;
@@ -123,8 +123,8 @@ Don&#x27;t see something you need? &lt;a href=&quot;mailto:contact@zymologia.fi&
 		<title>Our services</title>
 		<published>2020-10-20T00:00:00+00:00</published>
 		<updated>2020-10-20T00:00:00+00:00</updated>
-		<link href="http://www.zymologia.fi/info/services/" type="text/html"/>
-		<id>http://www.zymologia.fi/info/services/</id>
+		<link href="https://www.zymologia.fi/info/services/" type="text/html"/>
+		<id>https://www.zymologia.fi/info/services/</id>
 		<content type="html">&lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;laboratory-analysis&quot;&gt;Laboratory analysis&lt;&#x2F;h2&gt;
 &lt;p&gt;We will visit your facility to collect samples and determine parameters you are interested in. Where possible, we can let you deliver us these samples by any means you find appropriate.&lt;&#x2F;p&gt;
