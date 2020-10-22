@@ -16,5 +16,5 @@ hyde_links = [
     {url = "/#starthere", name = "Blog"},
     {url = "/info/about#starthere", name = "About"},
     {url = "/info/gdpr#starthere", name = "Privacy policy"},
-    {url = "atom.xml", name = "Atom feed"},
+    {url = "/atom.xml", name = "Atom feed"},
 ]
