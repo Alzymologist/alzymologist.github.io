@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>www.zymologia.fi/</loc>
+        <loc>zymologia.fi/</loc>
     </url>
     <url>
-        <loc>www.zymologia.fi/blog/</loc>
+        <loc>zymologia.fi/blog/</loc>
     </url>
     <url>
-        <loc>www.zymologia.fi/blog/2020-10-20/</loc>
+        <loc>zymologia.fi/blog/2020-10-20/</loc>
         <lastmod>2020-10-20</lastmod>
     </url>
     <url>
-        <loc>www.zymologia.fi/info/abcs/</loc>
+        <loc>zymologia.fi/info/abcs/</loc>
         <lastmod>2020-10-20</lastmod>
     </url>
     <url>
-        <loc>www.zymologia.fi/info/about/</loc>
+        <loc>zymologia.fi/info/about/</loc>
         <lastmod>2020-10-20</lastmod>
     </url>
     <url>
-        <loc>www.zymologia.fi/info/ebc/</loc>
+        <loc>zymologia.fi/info/ebc/</loc>
         <lastmod>2020-10-20</lastmod>
     </url>
     <url>
-        <loc>www.zymologia.fi/info/gdpr/</loc>
+        <loc>zymologia.fi/info/gdpr/</loc>
         <lastmod>2020-10-20</lastmod>
     </url>
     <url>
-        <loc>www.zymologia.fi/info/mebak/</loc>
+        <loc>zymologia.fi/info/mebak/</loc>
         <lastmod>2020-10-20</lastmod>
     </url>
     <url>
-        <loc>www.zymologia.fi/info/methods/</loc>
+        <loc>zymologia.fi/info/methods/</loc>
         <lastmod>2020-10-20</lastmod>
     </url>
     <url>
-        <loc>www.zymologia.fi/info/pricing/</loc>
+        <loc>zymologia.fi/info/pricing/</loc>
         <lastmod>2020-10-20</lastmod>
     </url>
     <url>
-        <loc>www.zymologia.fi/info/services/</loc>
+        <loc>zymologia.fi/info/services/</loc>
         <lastmod>2020-10-20</lastmod>
     </url>
 </urlset>
