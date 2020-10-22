@@ -10,11 +10,11 @@ hyde_reverse = false
 hyde_theme = ""
 hyde_links = [
     {url = "mailto:contact@zymologia.fi", name = "Contact us"},
-    {url = "/info/services#starthere", name = "Services"},
-    {url = "/info/methods#starthere", name = "Capabilities"},
-    {url = "/info/pricing#starthere", name = "Pricing"},
-    {url = "/#starthere", name = "Blog"},
-    {url = "/info/about#starthere", name = "About"},
-    {url = "/info/gdpr#starthere", name = "Privacy policy"},
-    {url = "/atom.xml", name = "Atom feed"},
+    {url = "info/services#starthere", name = "Services"},
+    {url = "info/methods#starthere", name = "Capabilities"},
+    {url = "info/pricing#starthere", name = "Pricing"},
+    {url = "#starthere", name = "Blog"},
+    {url = "info/about#starthere", name = "About"},
+    {url = "info/gdpr#starthere", name = "Privacy policy"},
+    {url = "atom.xml", name = "Atom feed"},
 ]
