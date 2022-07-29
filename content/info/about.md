@@ -1,11 +1,8 @@
 +++
 title = "About Alzymologist Oy"
-date = 2020-10-20
 +++
 
 Business ID: 3162030-9
-
-***This page is under construction***
 
 ## Our mission
 
@@ -44,3 +41,9 @@ Alzymologist Oy is a family-founded, family-owned and family-operated company. W
 
 The best way to learn more is to [contact us](mailto:contact@zymologia.fi), there is no automatic responder on the other side, just us.
 
+## Our location
+
+Our lab is located in the Keran Hallit complex. Come visit us! We are very interested in handshaking and cooperation.
+
+***This page is under construction***<br>
+***Updated on 2022-07-30***

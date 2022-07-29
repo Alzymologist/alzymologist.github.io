@@ -1,9 +1,6 @@
 +++
 title = "Privacy policy"
-date = 2020-10-20
 +++
-
-***This page is under construction***
 
 ## Personal data
 
@@ -15,3 +12,5 @@ We keep your emails on [ProtonMail](https://protonmail.com/) servers in accordan
 
 If you would like us to delete the personal data we have or make any changes, please [send us an email](mailto:contact@zymologia.fi).
 
+***This page is under construction***<br>
+***Updated on 2022-07-30***
