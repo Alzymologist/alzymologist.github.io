@@ -3,38 +3,17 @@
 	<title>Alzymologist Oy</title>
 	<subtitle>Laboratory for microbrewers</subtitle>
 	<link href="https://www.zymologia.fi/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://www.zymologia.fi"/>
+  <link href="https://www.zymologia.fi/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2020-10-20T00:00:00+00:00</updated>
 	<id>https://www.zymologia.fi/atom.xml</id>
 	<entry xml:lang="en">
-		<title>Our website is up!</title>
-		<published>2020-10-20T00:00:00+00:00</published>
-		<updated>2020-10-20T00:00:00+00:00</updated>
-		<link href="https://www.zymologia.fi/blog/2020-10-20/" type="text/html"/>
-		<id>https://www.zymologia.fi/blog/2020-10-20/</id>
-		<content type="html">&lt;p&gt;This is the first post, mostly to test if the website is working properly.&lt;&#x2F;p&gt;
-&lt;p&gt;We have just founded the company, we still have almost no equipment and proper lab, but you&#x27;ve got to start somewhere!&lt;&#x2F;p&gt;
-&lt;p&gt;If you somehow came across this place now, please - &lt;a href=&quot;mailto:contact@zymologia.fi&quot;&gt;let us know what you think&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
-&lt;p&gt;If you are a microbrewer, please let us know what services are you interested in, we cannot afford to have every test in the world (yet), so more demanded tests will have to go first - &lt;a href=&quot;mailto:contact@zymologia.fi&quot;&gt;let&#x27;s talk about it&lt;&#x2F;a&gt;! Or at least let us know if you are interested, we&#x27;ll add you to mailing list.&lt;&#x2F;p&gt;
-</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>ABCS methods table</title>
-		<published>2020-10-20T00:00:00+00:00</published>
-		<updated>2020-10-20T00:00:00+00:00</updated>
-		<link href="https://www.zymologia.fi/info/abcs/" type="text/html"/>
-		<id>https://www.zymologia.fi/info/abcs/</id>
-		<content type="html"></content>
-	</entry>
-	<entry xml:lang="en">
 		<title>About Alzymologist Oy</title>
 		<published>2020-10-20T00:00:00+00:00</published>
 		<updated>2020-10-20T00:00:00+00:00</updated>
-		<link href="https://www.zymologia.fi/info/about/" type="text/html"/>
+		<link rel="alternate" href="https://www.zymologia.fi/info/about/" type="text/html"/>
 		<id>https://www.zymologia.fi/info/about/</id>
 		<content type="html">&lt;p&gt;Business ID: 3162030-9&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;our-mission&quot;&gt;Our mission&lt;&#x2F;h2&gt;
 &lt;p&gt;Finland is famous for great engineers and tough alcohol regulations. Microbrewers saved the world from mediocre beer, and Finland is a great place for microbrewers - but how many could afford a lab? The answer is - as many as possible!&lt;&#x2F;p&gt;
 &lt;p&gt;Proper analytical laboratory involves expensive start-up costs, maintenance costs - and at least one skilled person to run it. In the end, no matter how many samples are run, some costs remain the same. And this is where community power comes in.&lt;&#x2F;p&gt;
@@ -57,55 +36,55 @@
 &lt;h2 id=&quot;about-us&quot;&gt;About us&lt;&#x2F;h2&gt;
 &lt;p&gt;Alzymologist Oy is a family-founded, family-owned and family-operated company. We are a couple of researchers, chemists and physicists, and we work together for over 10 years. For years we&#x27;ve been making our own homebrewing &amp;quot;experiments&amp;quot;, studying zymology as a hobby, that was well complimented by our professional skills and expertise. We&#x27;ve decided to start analytical company when we realized that nobody really cares to offer quality analytical services to those who need it most. We source our inspiration from White Labs success and we aim to improve craft alcohol world as they did.&lt;&#x2F;p&gt;
 &lt;p&gt;The best way to learn more is to &lt;a href=&quot;mailto:contact@zymologia.fi&quot;&gt;contact us&lt;&#x2F;a&gt;, there is no automatic responder on the other side, just us.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;our-location&quot;&gt;Our location&lt;&#x2F;h2&gt;
+&lt;p&gt;Our lab is located in the Keran Hallit complex. Come visit us! We are very interested in handshaking and cooperation.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Updated on 2022-07-30&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </content>
-	</entry>
-	<entry xml:lang="en">
-		<title>EBC methods table</title>
-		<published>2020-10-20T00:00:00+00:00</published>
-		<updated>2020-10-20T00:00:00+00:00</updated>
-		<link href="https://www.zymologia.fi/info/ebc/" type="text/html"/>
-		<id>https://www.zymologia.fi/info/ebc/</id>
-		<content type="html"></content>
 	</entry>
 	<entry xml:lang="en">
 		<title>Privacy policy</title>
 		<published>2020-10-20T00:00:00+00:00</published>
 		<updated>2020-10-20T00:00:00+00:00</updated>
-		<link href="https://www.zymologia.fi/info/gdpr/" type="text/html"/>
+		<link rel="alternate" href="https://www.zymologia.fi/info/gdpr/" type="text/html"/>
 		<id>https://www.zymologia.fi/info/gdpr/</id>
-		<content type="html">&lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;personal-data&quot;&gt;Personal data&lt;&#x2F;h2&gt;
+		<content type="html">&lt;h2 id=&quot;personal-data&quot;&gt;Personal data&lt;&#x2F;h2&gt;
 &lt;p&gt;This is a completely static website, we are not collecting any information and we do not track users.&lt;&#x2F;p&gt;
 &lt;p&gt;This website is hosted on &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;&quot;&gt;GitHub&lt;&#x2F;a&gt;, the hoster might be collecting IP addresses or other statistics to prevent abuse in accordance with &lt;a href=&quot;https:&#x2F;&#x2F;docs.github.com&#x2F;en&#x2F;free-pro-team@latest&#x2F;github&#x2F;site-policy&#x2F;github-privacy-statement&quot;&gt;their privacy policy&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;We keep your emails on &lt;a href=&quot;https:&#x2F;&#x2F;protonmail.com&#x2F;&quot;&gt;ProtonMail&lt;&#x2F;a&gt; servers in accordance with &lt;a href=&quot;https:&#x2F;&#x2F;protonmail.com&#x2F;privacy-policy&quot;&gt;their privacy policy&lt;&#x2F;a&gt;. We are not sharing them with anyone and will ask for your consent to add your address to any mailing lists in a separate email.&lt;&#x2F;p&gt;
 &lt;p&gt;If you would like us to delete the personal data we have or make any changes, please &lt;a href=&quot;mailto:contact@zymologia.fi&quot;&gt;send us an email&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Updated on 2022-07-30&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </content>
-	</entry>
-	<entry xml:lang="en">
-		<title>MEBAK methods table</title>
-		<published>2020-10-20T00:00:00+00:00</published>
-		<updated>2020-10-20T00:00:00+00:00</updated>
-		<link href="https://www.zymologia.fi/info/mebak/" type="text/html"/>
-		<id>https://www.zymologia.fi/info/mebak/</id>
-		<content type="html"></content>
 	</entry>
 	<entry xml:lang="en">
 		<title>Our capabilities</title>
 		<published>2020-10-20T00:00:00+00:00</published>
 		<updated>2020-10-20T00:00:00+00:00</updated>
-		<link href="https://www.zymologia.fi/info/methods/" type="text/html"/>
+		<link rel="alternate" href="https://www.zymologia.fi/info/methods/" type="text/html"/>
 		<id>https://www.zymologia.fi/info/methods/</id>
-		<content type="html">&lt;h2 id=&quot;custom-analysis&quot;&gt;Custom analysis&lt;&#x2F;h2&gt;
+		<content type="html">&lt;h3 id=&quot;examples-of-measurements-we-provide&quot;&gt;Examples of measurements we provide&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Alcohol content by volume (ABV)&lt;br&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Alcohol content by mass (also known as ABW)&lt;br&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Real extract&lt;br&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Apparent extract&lt;br&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Original extract&lt;br&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Real degree of fermentation&lt;br&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Apparent degree of fermentation&lt;br&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Specific gravity&lt;br&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 &lt;p&gt;This list is not exhaustive, but holds only popular methods.&lt;br&gt;
 Don&#x27;t see something you need? &lt;a href=&quot;mailto:contact@zymologia.fi&quot;&gt;Contact us!&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Updated on 2022-07-30&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </content>
 	</entry>
 	<entry xml:lang="en">
 		<title>Pricing guide</title>
 		<published>2020-10-20T00:00:00+00:00</published>
 		<updated>2020-10-20T00:00:00+00:00</updated>
-		<link href="https://www.zymologia.fi/info/pricing/" type="text/html"/>
+		<link rel="alternate" href="https://www.zymologia.fi/info/pricing/" type="text/html"/>
 		<id>https://www.zymologia.fi/info/pricing/</id>
 		<content type="html">&lt;h2 id=&quot;general-rules&quot;&gt;General rules&lt;&#x2F;h2&gt;
 &lt;p&gt;All pricing is determined on case-by-case basis. Most tests are priced at €20 - €200 depending on test complexity and number of samples. The more services are ordered, the lower the price of each will be; this is deliberately done for three reasons:&lt;&#x2F;p&gt;
@@ -115,18 +94,17 @@ Don&#x27;t see something you need? &lt;a href=&quot;mailto:contact@zymologia.fi&
 &lt;li&gt;Commercially, everyone benefits from more tests&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;The analysis costs will include transportation. Again, we will strive to reduce these costs if many samples are repeatedly ordered from the same area, probably even open a new lab or send you a laboratory in a truck.&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;pricing-examples&quot;&gt;Pricing examples&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Updated on 2022-07-30&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </content>
 	</entry>
 	<entry xml:lang="en">
 		<title>Our services</title>
 		<published>2020-10-20T00:00:00+00:00</published>
 		<updated>2020-10-20T00:00:00+00:00</updated>
-		<link href="https://www.zymologia.fi/info/services/" type="text/html"/>
+		<link rel="alternate" href="https://www.zymologia.fi/info/services/" type="text/html"/>
 		<id>https://www.zymologia.fi/info/services/</id>
-		<content type="html">&lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;laboratory-analysis&quot;&gt;Laboratory analysis&lt;&#x2F;h2&gt;
+		<content type="html">&lt;h2 id=&quot;laboratory-analysis&quot;&gt;Laboratory analysis&lt;&#x2F;h2&gt;
 &lt;p&gt;We will visit your facility to collect samples and determine parameters you are interested in. Where possible, we can let you deliver us these samples by any means you find appropriate.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;consulting&quot;&gt;Consulting&lt;&#x2F;h2&gt;
 &lt;p&gt;Ask us questions, let us help you troubleshoot your process! In many cases it is free, if it is not we&#x27;ll tell you and charge you upfront.&lt;&#x2F;p&gt;
@@ -138,6 +116,8 @@ Don&#x27;t see something you need? &lt;a href=&quot;mailto:contact@zymologia.fi&
 &lt;p&gt;We will visit typical outlets with your products, purchase and analyze them, so that you can be sure that your product is stored and served as you intended.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;data-analysis&quot;&gt;Data analysis&lt;&#x2F;h2&gt;
 &lt;p&gt;We will store all your data and analyze it (unless you tell us not to!). You can even submit additional information or ask us to look for some particular information. Small breweries can have big data!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Updated on 2022-07-30&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </content>
 	</entry>
 </feed>

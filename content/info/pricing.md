@@ -1,5 +1,6 @@
 +++
 title = "Pricing guide"
+date = 2020-10-20
 +++
 
 ## General rules

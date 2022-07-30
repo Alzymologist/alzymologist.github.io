@@ -1,5 +1,6 @@
 +++
 title = "Privacy policy"
+date = 2020-10-20
 +++
 
 ## Personal data
