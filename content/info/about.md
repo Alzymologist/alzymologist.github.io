@@ -1,5 +1,6 @@
 +++
 title = "About Alzymologist Oy"
+date = 2020-10-20
 +++
 
 Business ID: 3162030-9
@@ -24,7 +25,8 @@ We value community power. Working together - many microbrewers outsourcing analy
 
 At the same time, we value intellectual property. Your data is your data, we will keep it secure. All clients data is stored and processed separately - unless you ask us otherwise. Even our email is encrypted. [Read our data protection statement](@/info/GDPR.md)
 
-We value personality. Microbrewing is based on small scale, on individuals rather than corporations. We strive to keep this spirit - so [contact us!](mailto:contact@zymologia.fi)
+
+We value personality. Microbrewing is based on small scale, on individuals rather than corporations. We strive to keep this spirit - so [contact us!](@/info/contacts.md)
 
 Do you share our values? Let's make great beers together!
 
@@ -37,13 +39,8 @@ Do you share our values? Let's make great beers together!
 
 ## About us
 
-Alzymologist Oy is a family-founded, family-owned and family-operated company. We are a couple of researchers, chemists and physicists, and we work together for over 10 years. For years we've been making our own homebrewing "experiments", studying zymology as a hobby, that was well complimented by our professional skills and expertise. We've decided to start analytical company when we realized that nobody really cares to offer quality analytical services to those who need it most. We source our inspiration from White Labs success and we aim to improve craft alcohol world as they did.
+Alzymologist Oy is a family-founded company that has grown over time to accommodate new members. We are a team of chemists, physicists, and computer scientists, and we work together for over 10 years. For years we've been making our own homebrewing "experiments", studying zymology as a hobby, that was well complimented by our professional skills and expertise. We've decided to start analytical company when we realized that nobody really cares to offer quality analytical services to those who need it most. We source our inspiration from White Labs success and we aim to improve craft alcohol world as they did.
 
-The best way to learn more is to [contact us](mailto:contact@zymologia.fi), there is no automatic responder on the other side, just us.
-
-## Our location
-
-Our lab is located in the Keran Hallit complex. Come visit us! We are very interested in handshaking and cooperation.
 
 ***This page is under construction***<br>
 ***Updated on 2022-07-30***
