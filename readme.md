@@ -2,4 +2,4 @@ This website is powered by [Zola](https://www.getzola.org/) and hosted on [GitHu
 
 ```sh
 zola build --output-dir docs
-``
+```
