@@ -5,8 +5,23 @@
 	<link href="https://www.zymologia.fi/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.zymologia.fi/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2020-10-20T00:00:00+00:00</updated>
+	<updated>2022-07-30T00:00:00+00:00</updated>
 	<id>https://www.zymologia.fi/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Contact Alzymologist Oy</title>
+		<published>2022-07-30T00:00:00+00:00</published>
+		<updated>2022-07-30T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www.zymologia.fi/info/contacts/" type="text/html"/>
+		<id>https://www.zymologia.fi/info/contacts/</id>
+		<content type="html">&lt;h2 id=&quot;our-contacts&quot;&gt;Our contacts&lt;&#x2F;h2&gt;
+&lt;p&gt;The best way to learn more about us is to write to &lt;a href=&quot;mailto:contact@zymologia.fi&quot;&gt;&lt;strong&gt;contact@zymologia.fi&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &lt;br&gt;
+There is no automatic responder on the other side, just us.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;our-location&quot;&gt;Our location&lt;&#x2F;h2&gt;
+&lt;p&gt;Our lab is located in the Keran Hallit complex. Come and visit us! We are very interested in handshaking and cooperation.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Updated on 2022-07-31&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>About Alzymologist Oy</title>
 		<published>2020-10-20T00:00:00+00:00</published>
@@ -24,7 +39,7 @@
 &lt;p&gt;We value straightforwardness and openness. We tell you what we do and why, who we are and what we know.&lt;&#x2F;p&gt;
 &lt;p&gt;We value community power. Working together - many microbrewers outsourcing analysis to our lab - makes our project possible. Everyone will have all the tools and expertise. And we share back - all scientific knowledge we produce ourselves we will freely share with people. Even this website is powered by &lt;a href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;&quot;&gt;FOSS&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;At the same time, we value intellectual property. Your data is your data, we will keep it secure. All clients data is stored and processed separately - unless you ask us otherwise. Even our email is encrypted. &lt;a href=&quot;https:&#x2F;&#x2F;www.zymologia.fi&#x2F;info&#x2F;gdpr&#x2F;&quot;&gt;Read our data protection statement&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;We value personality. Microbrewing is based on small scale, on individuals rather than corporations. We strive to keep this spirit - so &lt;a href=&quot;mailto:contact@zymologia.fi&quot;&gt;contact us!&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;We value personality. Microbrewing is based on small scale, on individuals rather than corporations. We strive to keep this spirit - so &lt;a href=&quot;https:&#x2F;&#x2F;www.zymologia.fi&#x2F;info&#x2F;contacts&#x2F;&quot;&gt;contact us!&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Do you share our values? Let&#x27;s make great beers together!&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;our-goals&quot;&gt;Our goals&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -34,10 +49,7 @@
 &lt;li&gt;Influence regulators, standartization organs and convents&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;about-us&quot;&gt;About us&lt;&#x2F;h2&gt;
-&lt;p&gt;Alzymologist Oy is a family-founded, family-owned and family-operated company. We are a couple of researchers, chemists and physicists, and we work together for over 10 years. For years we&#x27;ve been making our own homebrewing &amp;quot;experiments&amp;quot;, studying zymology as a hobby, that was well complimented by our professional skills and expertise. We&#x27;ve decided to start analytical company when we realized that nobody really cares to offer quality analytical services to those who need it most. We source our inspiration from White Labs success and we aim to improve craft alcohol world as they did.&lt;&#x2F;p&gt;
-&lt;p&gt;The best way to learn more is to &lt;a href=&quot;mailto:contact@zymologia.fi&quot;&gt;contact us&lt;&#x2F;a&gt;, there is no automatic responder on the other side, just us.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;our-location&quot;&gt;Our location&lt;&#x2F;h2&gt;
-&lt;p&gt;Our lab is located in the Keran Hallit complex. Come visit us! We are very interested in handshaking and cooperation.&lt;&#x2F;p&gt;
+&lt;p&gt;Alzymologist Oy is a family-founded company that has grown over time to accommodate new members. We are a team of chemists, physicists, and computer scientists, and we work together for over 10 years. For years we&#x27;ve been making our own homebrewing &amp;quot;experiments&amp;quot;, studying zymology as a hobby, that was well complimented by our professional skills and expertise. We&#x27;ve decided to start analytical company when we realized that nobody really cares to offer quality analytical services to those who need it most. We source our inspiration from White Labs success and we aim to improve craft alcohol world as they did.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;br&gt;
 &lt;em&gt;&lt;strong&gt;Updated on 2022-07-30&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </content>
@@ -52,7 +64,7 @@
 &lt;p&gt;This is a completely static website, we are not collecting any information and we do not track users.&lt;&#x2F;p&gt;
 &lt;p&gt;This website is hosted on &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;&quot;&gt;GitHub&lt;&#x2F;a&gt;, the hoster might be collecting IP addresses or other statistics to prevent abuse in accordance with &lt;a href=&quot;https:&#x2F;&#x2F;docs.github.com&#x2F;en&#x2F;free-pro-team@latest&#x2F;github&#x2F;site-policy&#x2F;github-privacy-statement&quot;&gt;their privacy policy&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;We keep your emails on &lt;a href=&quot;https:&#x2F;&#x2F;protonmail.com&#x2F;&quot;&gt;ProtonMail&lt;&#x2F;a&gt; servers in accordance with &lt;a href=&quot;https:&#x2F;&#x2F;protonmail.com&#x2F;privacy-policy&quot;&gt;their privacy policy&lt;&#x2F;a&gt;. We are not sharing them with anyone and will ask for your consent to add your address to any mailing lists in a separate email.&lt;&#x2F;p&gt;
-&lt;p&gt;If you would like us to delete the personal data we have or make any changes, please &lt;a href=&quot;mailto:contact@zymologia.fi&quot;&gt;send us an email&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;If you would like us to delete the personal data we have or make any changes, please &lt;a href=&quot;https:&#x2F;&#x2F;www.zymologia.fi&#x2F;info&#x2F;contacts&#x2F;&quot;&gt;send us an email&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;br&gt;
 &lt;em&gt;&lt;strong&gt;Updated on 2022-07-30&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </content>
@@ -75,7 +87,7 @@
 &lt;li&gt;Specific gravity&lt;br&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;This list is not exhaustive, but holds only popular methods.&lt;br&gt;
-Don&#x27;t see something you need? &lt;a href=&quot;mailto:contact@zymologia.fi&quot;&gt;Contact us!&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+Don&#x27;t see something you need? &lt;a href=&quot;https:&#x2F;&#x2F;www.zymologia.fi&#x2F;info&#x2F;contacts&#x2F;&quot;&gt;Contact us!&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;br&gt;
 &lt;em&gt;&lt;strong&gt;Updated on 2022-07-30&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </content>
