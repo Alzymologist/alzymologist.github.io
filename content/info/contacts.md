@@ -14,12 +14,13 @@ Our lab is located in the Keran Hallit complex. Come and visit us! We are very i
 
 
 ## Sample submission form
-You can download our ***sample submission form*** in pdf, spreadsheet or plain text format:
-* [Sample submission form in pdf](/Alzymologist-submission-form.pdf)
-* [Sample submission form in spreadsheet](/Alzymologist-submission-form.xlsx)
-* [Sample submission form in plain text](/Alzymologist-submission-form.txt)
+You can download our ***sample submission form*** in pdf, docx (MS Word), xlsx (MS Excel) or plain text format:
+* [Submission form in pdf](/Alzymologist-submission-form.pdf)
+* [Submission form in xlsx](/Alzymologist-submission-form.xlsx)
+* [Submission form in docx](/Alzymologist-submission-form.docx)
+* [Submission form in txt](/Alzymologist-submission-form.txt)
 
 Download any, fill it out and send it to us. <br>
 
 ***This page is under construction***<br>
-***Updated on 2022-08-17***
+***Updated on 2022-08-18***
