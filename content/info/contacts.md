@@ -14,13 +14,14 @@ Our lab is located in the Keran Hallit complex. Come and visit us! We are very i
 
 
 ## Sample submission form
-You can download our ***sample submission form*** in pdf, docx (MS Word), xlsx (MS Excel) or plain text format:
+
+You can delegate all the paperwork to us. Just make sure the beer is delivered. You can also choose to complete the **sample submission form** yourself (this is voluntary). It is available in several file formats:
+
 * [Submission form in pdf](/Alzymologist-submission-form.pdf)
 * [Submission form in xlsx](/Alzymologist-submission-form.xlsx)
 * [Submission form in docx](/Alzymologist-submission-form.docx)
 * [Submission form in txt](/Alzymologist-submission-form.txt)
 
-Download any, fill it out and send it to us. <br>
 
 ***This page is under construction***<br>
 ***Updated on 2022-08-18***
