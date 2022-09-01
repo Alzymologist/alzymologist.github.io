@@ -3,24 +3,22 @@ title = "Contact Alzymologist Oy"
 date = 2022-07-30
 +++
 
-## Our contacts
+## Lab contacts
 
-The best way to learn more about us is to write to [**contact@zymologia.fi**](mailto:contact@zymologia.fi) <br>
+The best way to learn more about laboratory is to write to [**contact@zymologia.fi**](mailto:contact@zymologia.fi) <br>
 There is no automatic responder on the other side, just us.
 
-## Our location
+
+## Lab location
 
 Our lab is located in the Keran Hallit complex. Come and visit us! We are very interested in handshaking and cooperation.
 
-## Sample submission form
-You can delegate all the paperwork to us. Just make sure the beer is delivered and tell us what you want! <br>
+## Alzymologist Oy team 
+Alzymologist Oy is more than just a chemical laboratory, we also do software and hardware development! Check out our [GitHub page]( https://github.com/Alzymologist), we use it to organize projects. We stand for the legal and responsible use of cryptocurrencies, our Polkadot and Kusama on-chain addresses:
 
-If you choose to help us with the paperwork (this is voluntary), you can use our standard **sample submission form** for alcoholic beverages. It is available in several file formats:
+12bFooBAK4hHUfiri7v2Eiz96v7TDoiLWdNKCFYmhWzGG1Tq (Polkadot)
 
-* [Submission form in pdf](/Alzymologist-submission-form.pdf)
-* [Submission form in xlsx](/Alzymologist-submission-form.xlsx)
-* [Submission form in docx](/Alzymologist-submission-form.docx)
-* [Submission form in txt](/Alzymologist-submission-form.txt)
+EocabFvqttEamwQKoFyQxLPnx9HWDdVDS9wwrUX1aKKbJ5g (Kusama)
 
 ***This page is under construction***<br>
-***Updated on 2022-08-18***
+***Updated on 2022-09-01***

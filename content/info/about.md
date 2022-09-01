@@ -1,5 +1,5 @@
 +++
-title = "About Alzymologist Oy"
+title = "About Alzymologist Oy Lab"
 date = 2020-10-20
 +++
 
@@ -43,4 +43,4 @@ Alzymologist Oy is a family-founded company that has grown over time to accommod
 
 
 ***This page is under construction***<br>
-***Updated on 2022-07-30***
+***Updated on 2022-09-01***
