@@ -16,23 +16,20 @@
 		<content type="html">&lt;h2 id=&quot;our-contacts&quot;&gt;Our contacts&lt;&#x2F;h2&gt;
 &lt;p&gt;The best way to learn more about us is to write to &lt;a href=&quot;mailto:contact@zymologia.fi&quot;&gt;&lt;strong&gt;contact@zymologia.fi&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt; &lt;br&gt;
 There is no automatic responder on the other side, just us.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;our-location&quot;&gt;Our location&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;lab-location&quot;&gt;Lab location&lt;&#x2F;h2&gt;
 &lt;p&gt;Our lab is located in the Keran Hallit complex. Come and visit us! We are very interested in handshaking and cooperation.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;sample-submission-form&quot;&gt;Sample submission form&lt;&#x2F;h2&gt;
-&lt;p&gt;You can delegate all the paperwork to us. Just make sure the beer is delivered and tell us what you want! &lt;br&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;If you choose to help us with the paperwork (this is voluntary), you can use our standard &lt;strong&gt;sample submission form&lt;&#x2F;strong&gt; for alcoholic beverages. It is available in several file formats:&lt;&#x2F;p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;&#x2F;Alzymologist-submission-form.pdf&quot;&gt;Submission form in pdf&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;&#x2F;Alzymologist-submission-form.xlsx&quot;&gt;Submission form in xlsx&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;&#x2F;Alzymologist-submission-form.docx&quot;&gt;Submission form in docx&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;&#x2F;Alzymologist-submission-form.txt&quot;&gt;Submission form in txt&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;alzymologist-oy-team&quot;&gt;Alzymologist Oy team&lt;&#x2F;h2&gt;
+&lt;p&gt;Alzymologist Oy is more than just a chemical laboratory, we also do software and hardware development! Check out our &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Alzymologist&quot;&gt;GitHub page&lt;&#x2F;a&gt;, we use it to organize projects. We stand for the legal and responsible use of cryptocurrencies. Our on-chain Polkadot and Kusama addresses:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Icon&lt;&#x2F;th&gt;&lt;th&gt;Chain&lt;&#x2F;th&gt;&lt;th&gt;Address&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;&#x2F;images&#x2F;Alzy_polkadot.svg&quot; alt=&quot;Alzy polkadot icon&quot; &#x2F;&gt;&lt;&#x2F;td&gt;&lt;td&gt;Polkadot&lt;&#x2F;td&gt;&lt;td&gt;12bFooBAK4hHUfiri7v2Eiz96v7TDoiLWdNKCFYmhWzGG1Tq&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;&#x2F;images&#x2F;Alzy_kusama.svg&quot; alt=&quot;Alzy kusama icon&quot; &#x2F;&gt;&lt;&#x2F;td&gt;&lt;td&gt;Kusama&lt;&#x2F;td&gt;&lt;td&gt;EocabFvqttEamwQKoFyQxLPnx9HWDdVDS9wwrUX1aKKbJ5g&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;br&gt;
-&lt;em&gt;&lt;strong&gt;Updated on 2022-08-18&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;em&gt;&lt;strong&gt;Updated on 2022-09-03&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </content>
 	</entry>
 	<entry xml:lang="en">
-		<title>About Alzymologist Oy</title>
+		<title>About Alzymologist Oy Lab</title>
 		<published>2020-10-20T00:00:00+00:00</published>
 		<updated>2020-10-20T00:00:00+00:00</updated>
 		<link rel="alternate" href="https://www.zymologia.fi/info/about/" type="text/html"/>
@@ -60,7 +57,7 @@ There is no automatic responder on the other side, just us.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;about-us&quot;&gt;About us&lt;&#x2F;h2&gt;
 &lt;p&gt;Alzymologist Oy is a family-founded company that has grown over time to accommodate new members. We are a team of chemists, physicists, and computer scientists, and we work together for over 10 years. For years we&#x27;ve been making our own homebrewing &amp;quot;experiments&amp;quot;, studying zymology as a hobby, that was well complimented by our professional skills and expertise. We&#x27;ve decided to start analytical company when we realized that nobody really cares to offer quality analytical services to those who need it most. We source our inspiration from White Labs success and we aim to improve craft alcohol world as they did.&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;br&gt;
-&lt;em&gt;&lt;strong&gt;Updated on 2022-07-30&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;em&gt;&lt;strong&gt;Updated on 2022-09-01&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </content>
 	</entry>
 	<entry xml:lang="en">
@@ -79,12 +76,12 @@ There is no automatic responder on the other side, just us.&lt;&#x2F;p&gt;
 </content>
 	</entry>
 	<entry xml:lang="en">
-		<title>Our capabilities</title>
+		<title>Laboratory analysis</title>
 		<published>2020-10-20T00:00:00+00:00</published>
 		<updated>2020-10-20T00:00:00+00:00</updated>
 		<link rel="alternate" href="https://www.zymologia.fi/info/methods/" type="text/html"/>
 		<id>https://www.zymologia.fi/info/methods/</id>
-		<content type="html">&lt;h3 id=&quot;examples-of-measurements-we-provide&quot;&gt;Examples of measurements we provide&lt;&#x2F;h3&gt;
+		<content type="html">&lt;p&gt;Examples of measurements we provide:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;Alcohol content by volume (ABV)&lt;br&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;Alcohol content by mass (also known as ABW)&lt;br&gt;&lt;&#x2F;li&gt;
@@ -97,8 +94,16 @@ There is no automatic responder on the other side, just us.&lt;&#x2F;p&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;This list is not exhaustive, but holds only popular methods.&lt;br&gt;
 Don&#x27;t see something you need? &lt;a href=&quot;https:&#x2F;&#x2F;www.zymologia.fi&#x2F;info&#x2F;contacts&#x2F;&quot;&gt;Contact us!&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;sample-submission-form&quot;&gt;Sample submission form&lt;&#x2F;h2&gt;
+&lt;p&gt;You can delegate all the paperwork to us. Just make sure the beer is delivered and tell us what you want! If you choose to help us with the paperwork (this is voluntary), you can use our standard &lt;strong&gt;sample submission form&lt;&#x2F;strong&gt; for alcoholic beverages. It is available in several file formats:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;Alzymologist-submission-form.pdf&quot;&gt;Submission form in pdf&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;Alzymologist-submission-form.xlsx&quot;&gt;Submission form in xlsx&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;Alzymologist-submission-form.docx&quot;&gt;Submission form in docx&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;Alzymologist-submission-form.txt&quot;&gt;Submission form in txt&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;br&gt;
-&lt;em&gt;&lt;strong&gt;Updated on 2022-07-30&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;em&gt;&lt;strong&gt;Updated on 2022-09-01&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </content>
 	</entry>
 	<entry xml:lang="en">
@@ -126,11 +131,11 @@ Don&#x27;t see something you need? &lt;a href=&quot;https:&#x2F;&#x2F;www.zymolo
 		<link rel="alternate" href="https://www.zymologia.fi/info/services/" type="text/html"/>
 		<id>https://www.zymologia.fi/info/services/</id>
 		<content type="html">&lt;h2 id=&quot;laboratory-analysis&quot;&gt;Laboratory analysis&lt;&#x2F;h2&gt;
-&lt;p&gt;We will visit your facility to collect samples and determine parameters you are interested in. Where possible, we can let you deliver us these samples by any means you find appropriate.&lt;&#x2F;p&gt;
-&lt;h2 id=&quot;consulting&quot;&gt;Consulting&lt;&#x2F;h2&gt;
-&lt;p&gt;Ask us questions, let us help you troubleshoot your process! In many cases it is free, if it is not we&#x27;ll tell you and charge you upfront.&lt;&#x2F;p&gt;
+&lt;p&gt;We will visit your facility to collect samples and determine parameters you are interested in. Where possible, we can let you deliver us these samples by any means you find appropriate. Read more in the &lt;a href=&quot;https:&#x2F;&#x2F;www.zymologia.fi&#x2F;info&#x2F;methods&#x2F;&quot;&gt;lab analysis&lt;&#x2F;a&gt; section.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;yeast-capture-and-propagation&quot;&gt;Yeast capture and propagation&lt;&#x2F;h2&gt;
 &lt;p&gt;We can capture yeast from live beer or other inoculated substrates and propagate it to laboratory propagation scale. We can start and stop anywhere in the middle between these points. Note: we will not knowingly capture yeast from your competitors if they are also our clients! Just talk to each other, be good neighbours!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;consulting&quot;&gt;Consulting&lt;&#x2F;h2&gt;
+&lt;p&gt;Ask us questions, let us help you troubleshoot your process! In many cases it is free, if it is not we&#x27;ll tell you and charge you upfront.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;sensory-training&quot;&gt;Sensory training&lt;&#x2F;h2&gt;
 &lt;p&gt;We will come to your premises and train your personnel to distinguish between different off-flavours to identify process faults as early as possible. We will also train them to informatively describe the profile of beer. Your beer will be used as a baseline model for best results.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;control-purchase&quot;&gt;Control purchase&lt;&#x2F;h2&gt;
@@ -138,7 +143,7 @@ Don&#x27;t see something you need? &lt;a href=&quot;https:&#x2F;&#x2F;www.zymolo
 &lt;h2 id=&quot;data-analysis&quot;&gt;Data analysis&lt;&#x2F;h2&gt;
 &lt;p&gt;We will store all your data and analyze it (unless you tell us not to!). You can even submit additional information or ask us to look for some particular information. Small breweries can have big data!&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;This page is under construction&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;br&gt;
-&lt;em&gt;&lt;strong&gt;Updated on 2022-07-30&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;em&gt;&lt;strong&gt;Updated on 2022-09-01&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
 </content>
 	</entry>
 </feed>
