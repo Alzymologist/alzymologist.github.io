@@ -16,10 +16,15 @@ Our lab is located in the Keran Hallit complex. Come and visit us! We are very i
 
 Alzymologist Oy is more than just a chemical laboratory, we also do software and hardware development! Check out our [GitHub page]( https://github.com/Alzymologist), we use it to organize projects. We stand for the legal and responsible use of cryptocurrencies. Our on-chain Polkadot and Kusama addresses:
 
-| Icon | Chain | Address |
-| --- | --- | --- |
-| ![Alzy polkadot icon](/images/Alzy_polkadot.svg) | Polkadot | 12bFooBAK4hHUfiri7v2Eiz96v7TDoiLWdNKCFYmhWzGG1Tq |
-| ![Alzy kusama icon](/images/Alzy_kusama.svg) | Kusama | EocabFvqttEamwQKoFyQxLPnx9HWDdVDS9wwrUX1aKKbJ5g |
+
+**Polkadot address:** <br>
+12bFooBAK4hHUfiri7v2Eiz96v7TDoiLWdNKCFYmhWzGG1Tq
+![Alzy polkadot icon](/images/Alzy_polkadot.svg)
+
+**Kusama address:** <br>
+EocabFvqttEamwQKoFyQxLPnx9HWDdVDS9wwrUX1aKKbJ5g
+![Alzy kusama icon](/images/Alzy_kusama.svg)
+
 
 ***This page is under construction***<br>
-***Updated on 2022-09-03***
+***Updated on 2022-09-05***
