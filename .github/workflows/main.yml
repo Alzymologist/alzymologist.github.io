@@ -34,3 +34,4 @@ jobs:
           PAGES_BRANCH: gh-pages
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CHECK_LINKS: true
+          BUILD_DIR: docs
