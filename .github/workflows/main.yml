@@ -20,7 +20,6 @@ jobs:
           BUILD_FLAGS: --drafts
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CHECK_LINKS: true
-          BUILD_DIR: docs
           
   build_and_deploy:
     runs-on: ubuntu-latest
@@ -34,4 +33,3 @@ jobs:
           PAGES_BRANCH: gh-pages
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CHECK_LINKS: true
-          BUILD_DIR: docs
