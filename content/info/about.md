@@ -1,6 +1,6 @@
 +++
 title = "About Alzymologist Oy Lab"
-date = 2020-10-20
+date = 2023-03-27
 +++
 
 Business ID: 3162030-9
@@ -40,7 +40,3 @@ Do you share our values? Let's make great beers together!
 ## About us
 
 Alzymologist Oy is a family-founded company that has grown over time to accommodate new members. We are a team of chemists, physicists, and computer scientists, and we work together for over 10 years. For years we've been making our own homebrewing "experiments", studying zymology as a hobby, that was well complimented by our professional skills and expertise. We've decided to start analytical company when we realized that nobody really cares to offer quality analytical services to those who need it most. We source our inspiration from White Labs success and we aim to improve craft alcohol world as they did.
-
-
-***This page is under construction***<br>
-***Updated on 2022-09-01***

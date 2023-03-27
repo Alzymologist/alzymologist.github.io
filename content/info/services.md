@@ -1,6 +1,6 @@
 +++
 title = "Our services"
-date = 2020-10-20
+date = 2023-03-27
 +++
 
 ## Laboratory analysis
@@ -26,6 +26,3 @@ We will visit typical outlets with your products, purchase and analyze them, so 
 ## Data analysis
 
 We will store all your data and analyze it (unless you tell us not to!). You can even submit additional information or ask us to look for some particular information. Small breweries can have big data!
-
-***This page is under construction***<br>
-***Updated on 2022-09-01***

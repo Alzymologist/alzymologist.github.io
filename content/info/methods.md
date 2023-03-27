@@ -1,6 +1,6 @@
 +++
 title = "Laboratory analysis"
-date = 2020-10-20
+date = 2023-03-27
 +++
 
 Examples of measurements we provide:
@@ -24,6 +24,3 @@ You can delegate all the paperwork to us. Just make sure the beer is delivered a
 * [Submission form in xlsx](/Alzymologist-submission-form.xlsx)
 * [Submission form in docx](/Alzymologist-submission-form.docx)
 * [Submission form in txt](/Alzymologist-submission-form.txt)
-
-***This page is under construction***<br>
-***Updated on 2022-09-01***
