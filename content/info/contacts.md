@@ -25,8 +25,7 @@ EocabFvqttEamwQKoFyQxLPnx9HWDdVDS9wwrUX1aKKbJ5g
 ![Alzy-kusama](/images/Alzy_kusama.svg)
 
 ## Trusted validators on Kusama
- 
-List of trusted validators on Kusama that we can recommend for staking:   
+Trusted validators on Kusama that we recommend for staking: 
 
 **Alzymologist/Alzymologist-validator-0**   
 EAp3SeY72kfoCUV9SRbmZyiWVEhoQevwLASo7HmiTxCVKuv
@@ -51,3 +50,9 @@ EraxW9FCtQtJpnKSKGPxNSrzASoXpHRhctRs8gZv7C7GvHN
 
 **🍷ProofOfTrue🍾/2**   
 CpRu1U13GaBdSxd4tqw3jjCGCpRgte5v8sLkaXcqtzAxFRG
+
+## Trusted validators on Polkadot
+Trusted validators on Polkadot that we recommend for staking:
+
+**Alzymologist / Alzymologist validator 0**   
+123rZfdp1R6pBAN8Uft7NtsnSNLHvLgrBSkvLXtXcXtbP2Z9
