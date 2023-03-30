@@ -1,6 +1,6 @@
 +++
 title = "Contact Alzymologist Oy"
-date = 2022-07-30
+date = 2023-03-27
 +++
 
 ## Our contacts
@@ -25,8 +25,7 @@ EocabFvqttEamwQKoFyQxLPnx9HWDdVDS9wwrUX1aKKbJ5g
 ![Alzy-kusama](/images/Alzy_kusama.svg)
 
 ## Trusted validators on Kusama
- 
-List of trusted validators on Kusama that we can recommend for staking:   
+Trusted validators on Kusama that we recommend for staking: 
 
 **Alzymologist/Alzymologist-validator-0**   
 EAp3SeY72kfoCUV9SRbmZyiWVEhoQevwLASo7HmiTxCVKuv
@@ -45,3 +44,15 @@ DY3hczPcJjHXScXkKwJZ7vgqTE4bZaCUa56XsAQH8gDzB7x
 
 **♞GameTheory♜/v2**   
 FPwa55diVEYwSuhNXwDACk31u4BTe2kgC255BsibKJwFksc
+
+**🍷ProofOfTrue🍾**   
+EraxW9FCtQtJpnKSKGPxNSrzASoXpHRhctRs8gZv7C7GvHN
+
+**🍷ProofOfTrue🍾/2**   
+CpRu1U13GaBdSxd4tqw3jjCGCpRgte5v8sLkaXcqtzAxFRG
+
+## Trusted validators on Polkadot
+Trusted validators on Polkadot that we recommend for staking:
+
+**Alzymologist / Alzymologist validator 0**   
+123rZfdp1R6pBAN8Uft7NtsnSNLHvLgrBSkvLXtXcXtbP2Z9
