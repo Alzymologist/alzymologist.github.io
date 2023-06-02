@@ -224,3 +224,14 @@ a.sidebar-nav-item:focus {
 }
 }
 
+.img-placeholder {
+  width: 100%; /* или любая другая ширина, которую вы хотите задать */
+  aspect-ratio: 0.83; /* замените на соотношение сторон вашего изображения */
+  overflow: hidden;
+}
+
+.img-placeholder img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

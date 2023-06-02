@@ -8,9 +8,10 @@ date = 2023-03-27
 The best way to learn more about us is to write to [**contact@zymologia.fi**](mailto:contact@zymologia.fi) <br>
 There is no automatic responder on the other side, just us.
 
-## Lab location
+RSS Feed is available [here](/atom.xml).
 
-Our lab is located in the Keran Hallit complex. Come and visit us! We are very interested in handshaking and cooperation.
+## Lab location
+Our lab is located in the Kuopio, Finland. Come and visit us! We are very interested in handshaking and cooperation.
 
 ## Alzymologist Oy team
 

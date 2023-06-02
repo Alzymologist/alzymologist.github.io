@@ -31,7 +31,13 @@
                 <div class="container {% if config.extra.hyde_sticky %}sidebar-sticky{% endif %}">
                     <div class="sidebar-about">
                         {% block sidebar_about %}
-      <a href="{{ config.base_url }}#starthere"><img src="{{ get_url(path="images/logowhitenamepath.svg") }}"></a>
+
+                        <a href="/info/about">
+                          <div class="img-placeholder">
+                              <img src="{{ get_url(path="images/logowhitenamepath.svg") }}">
+                          </div>
+                      </a>
+
                             {% if config.description %}
                             <p class="lead">{{config.description}}</p>
                             {% endif %}
@@ -56,12 +62,12 @@
                     {% for page in section.pages | reverse %}
                       <div class="post">
                         <h2 class="post-title">
-                          <a href="{{ page.permalink }}#starthere">
+                          <a href="{{ page.permalink }}">
                             {{ page.title }}
                           </a>
                         </h2>
 
-                        <!-- <span class="post-date">{{ page.date | date(format="%Y-%m-%d") }}</span> -->
+                        <span class="post-date">{{ page.date | date(format="%Y-%m-%d") }}</span>
                       </div>
                     {% endfor %}
                 </div>
