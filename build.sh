@@ -15,6 +15,7 @@ elif [ "$CF_PAGES_BRANCH" == "preview" ]; then
     SRC_SUBDIR="/src"
     
     git clone $REPO_URL $DEST_DIR
+    echo $DEST_DIR$SRC_SUBDIR
     cd $DEST_DIR$SRC_SUBDIR
     cargo run --verbose
     zola build
