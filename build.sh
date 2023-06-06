@@ -28,7 +28,10 @@ elif [ "$CF_PAGES_BRANCH" == "feature-main" ]; then
 
     mkdir $REPO_DIR
     git clone $REPO_URL $REPO_DIR
+    ls
     cd $REPO_DIR
+    echo "Inside REPO_DIR"
+    ls
     cargo run --verbose
     cd .. # Navigate back 
     cp -R $REPO_DIR/output/* static/ # Copy plots to the static directory
