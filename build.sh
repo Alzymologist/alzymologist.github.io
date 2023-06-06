@@ -21,7 +21,7 @@ elif [ "$CF_PAGES_BRANCH" == "feature-main" ]; then
     echo "Building from feature-main 🔥"
 
     REPO_URL="https://github.com/Evgenii-Barannik/yeast-1"
-    REPO_DIR="/yeast"
+    REPO_DIR="yeast"
 
     mkdir REPO_DIR
     git clone $REPO_URL $REPO_DIR
