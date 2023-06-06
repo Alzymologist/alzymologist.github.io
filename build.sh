@@ -26,6 +26,7 @@ elif [ "$CF_PAGES_BRANCH" == "feature-main" ]; then
     mkdir REPO_DIR
     git clone $REPO_URL $REPO_DIR
     cd $REPO_DIR
+    curl https://sh.rustup.rs -sSf | sh
     cargo run --verbose
     cd .. # Navigate back 
     cp -R $REPO_DIR/output/* static/ # Copy plots to the static directory
