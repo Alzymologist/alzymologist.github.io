@@ -18,6 +18,8 @@ elif [ "$CF_PAGES_BRANCH" == "preview" ]; then
     echo $DEST_DIR$SRC_SUBDIR
     cd $DEST_DIR$SRC_SUBDIR
     cargo run --verbose
+    wrangler tail | jq -r 'LoggingTest'
+
     zola build
     
 # This command clones the repository
