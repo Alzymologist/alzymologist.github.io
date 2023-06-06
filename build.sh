@@ -20,5 +20,5 @@ elif [ "$CF_PAGES_BRANCH" == "feature-main" ]; then
 
     echo "Building from feature-main 🔥"
     zola build
-
+    ls
 fi
