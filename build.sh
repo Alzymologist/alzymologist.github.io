@@ -23,10 +23,10 @@ elif [ "$CF_PAGES_BRANCH" == "feature-main" ]; then
     REPO_URL="https://github.com/Evgenii-Barannik/yeast-1"
     REPO_DIR="yeast"
 
-    mkdir REPO_DIR
+    curl https://sh.rustup.rs -sySf | sh 
+    mkdir $REPO_DIR
     git clone $REPO_URL $REPO_DIR
     cd $REPO_DIR
-    curl https://sh.rustup.rs -sSf | sh
     cargo run --verbose
     cd .. # Navigate back 
     cp -R $REPO_DIR/output/* static/ # Copy plots to the static directory
