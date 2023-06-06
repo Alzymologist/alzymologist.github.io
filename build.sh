@@ -6,11 +6,11 @@ if [ "$CF_PAGES_BRANCH" == "production" ]; then
 
     zola build
 
-elif [ "$CF_PAGES_BRANCH" == "preview" ]; then
+elif [ "$CF_PAGES_BRANCH" == "feature-main" ]; then
   # Run the "staging" script in `package.json` on the "staging" branch
   # "staging" should be replaced with the name of your specific branch
 
     echo "Test"
     zola build
-    
+
 fi
