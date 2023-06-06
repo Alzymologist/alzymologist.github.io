@@ -11,3 +11,5 @@ elif [ "$CF_PAGES_BRANCH" == "preview"]; then
   # "staging" should be replaced with the name of your specific branch
 
     zola build
+    
+fi
