@@ -19,6 +19,14 @@ elif [ "$CF_PAGES_BRANCH" == "feature-main" ]; then
   # "staging" should be replaced with the name of your specific branch
 
     echo "Building from feature-main 🔥"
+
+    REPO_URL="https://github.com/Evgenii-Barannik/yeast-1"
+    REPO_DIR="/yeast"
+
+    git clone $REPO_URL $REPO_DIR
+    cd $REPO_DIR
+    cargo run --verbose
+    cd .. # Navigate back 
+    cp -R $REPO_DIR/output/* static/ # Copy plots to the static directory
     zola build
-    ls
 fi
