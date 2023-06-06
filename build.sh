@@ -23,7 +23,7 @@ elif [ "$CF_PAGES_BRANCH" == "feature-main" ]; then
     REPO_URL="https://github.com/Evgenii-Barannik/yeast-1"
     REPO_DIR="yeast"
 
-    curl https://sh.rustup.rs -sySf | sh 
+    curl https://sh.rustup.rs -sSf | sh -s -- -y
     mkdir $REPO_DIR
     git clone $REPO_URL $REPO_DIR
     cd $REPO_DIR
