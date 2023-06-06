@@ -14,7 +14,7 @@ elif [ "$CF_PAGES_BRANCH" == "dev-main" ]; then
     echo "Building from dev-main 🔥"
     zola build
 
-elif [ "$CF_PAGES_BRANCH" == "feature-main"]; then
+elif [ "$CF_PAGES_BRANCH" == "feature-main" ]; then
   # Run the "staging" script in `package.json` on the "staging" branch
   # "staging" should be replaced with the name of your specific branch
 
