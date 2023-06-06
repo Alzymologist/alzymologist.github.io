@@ -11,14 +11,6 @@ elif [ "$CF_PAGES_BRANCH" == "preview" ]; then
   # "staging" should be replaced with the name of your specific branch
 
     echo "Test"
-    REPO_URL="https://github.com/Alzymologist/yeast"
-    REPO_DIR="/yeast"
-    SRC_SUBDIR="/src"
-    
-    git clone $REPO_URL $DEST_DIR
-    cd $DEST_DIR$SRC_SUBDIR
-    cargo run --verbose
-    wrangler pages deployment tail 
     zola build
-
+    
 fi
