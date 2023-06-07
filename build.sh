@@ -32,6 +32,7 @@ elif [ "$CF_PAGES_BRANCH" == "feature-main" ]; then
     git clone $REPO_URL $REPO_DIR
     cd $REPO_DIR
     cargo run --verbose
+    cat genealogy.dot | dot -Tsvg > ../static/genealogy.svg 
     cd .. # Navigate back 
     cp -R $REPO_DIR/output/* static/ # Copy plots to the static directory
     zola build
