@@ -26,6 +26,8 @@ elif [ "$CF_PAGES_BRANCH" == "feature-main" ]; then
     curl https://sh.rustup.rs -sSf | sh -s -- -y # Cargo installation
     source "$HOME/.cargo/env"
 
+    apt install graphviz # Graphviz installation
+
     mkdir $REPO_DIR
     git clone $REPO_URL $REPO_DIR
     cd $REPO_DIR
