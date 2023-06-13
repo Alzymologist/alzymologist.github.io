@@ -20,20 +20,20 @@ elif [ "$CF_PAGES_BRANCH" == "feature-main" ]; then
 
     echo "Building from feature-main 🔥"
 
-    REPO_URL="https://github.com/Evgenii-Barannik/yeast-1"
-    REPO_DIR="yeast"
-
     curl https://sh.rustup.rs -sSf | sh -s -- -y # Cargo installation
     source "$HOME/.cargo/env"
-
     apt install graphviz # Graphviz installation
+    
+    REPO_DIR="yeast"
+    REPO_URL="https://github.com/Alzymologist/yeast"
+    REPO_BRANCH="feature-2"
 
     mkdir $REPO_DIR
-    git clone $REPO_URL $REPO_DIR
+    git clone --branch $REPO_BRANCH $REPO_URL $REPO_DIR
     cd $REPO_DIR
     cargo run --verbose
     cat genealogy.dot | dot -Tsvg > ../static/genealogy.svg 
+    cp -R output/* ../static/ # Copy plots to the static directory
     cd .. # Navigate back 
-    cp -R $REPO_DIR/output/* static/ # Copy plots to the static directory
     zola build
 fi
