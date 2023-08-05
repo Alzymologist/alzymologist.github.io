@@ -32,8 +32,8 @@ elif [ "$CF_PAGES_BRANCH" == "feature-main" ]; then
     git clone --branch $REPO_BRANCH $REPO_URL $REPO_DIR
     cd $REPO_DIR
     cargo run --verbose
-    # cat output/genealogy.dot | dot -Tsvg > output/genealogy.svg 
-    cp -R output/* ../static/ # Copy plots to the static directory
+    cat output/genealogy.dot | dot -Tsvg > output/genealogy.svg 
+    cp -R output/* ../static/data/yeast # Copy plots to the static directory
     cd .. # Navigate back 
     zola build
 fi
