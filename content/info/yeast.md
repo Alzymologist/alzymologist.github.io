@@ -1,10 +1,10 @@
 +++
-title = "Yeast"
+title = "Yeasts"
 date = 2023-05-06
 +++
 
 ## Yeast genealogy tree 
-![Genealogy](/genealogy.svg)
+![Genealogy](/data/yeast/genealogy.svg)
 
 ## Slants
 
