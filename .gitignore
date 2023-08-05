@@ -2,5 +2,5 @@
 /yeast
 
 .DS_Store
-/public/*
-static/data/yeast
+# /public/*
+# static/data/yeast

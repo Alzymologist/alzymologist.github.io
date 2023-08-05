@@ -28,6 +28,7 @@ elif [ "$CF_PAGES_BRANCH" == "feature-main" ]; then
     REPO_URL="https://github.com/Alzymologist/yeast"
     REPO_BRANCH="feature-2"
 
+    cp -R fresh_content/* content # Copy fresh content files
     mkdir $REPO_DIR
     git clone --branch $REPO_BRANCH $REPO_URL $REPO_DIR
     cd $REPO_DIR
