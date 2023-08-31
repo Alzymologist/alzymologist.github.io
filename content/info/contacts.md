@@ -60,3 +60,4 @@ Trusted validators on Polkadot that we recommend for staking:
 
 **♞GameTheory♜**  
 13Srw7dVtGJnZrV3o6RCAJ97MaGbSKShQQiSYjbGp4Jvu4Cs
+
