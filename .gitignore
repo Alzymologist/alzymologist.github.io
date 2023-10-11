@@ -1,6 +1,5 @@
 /yeast/*
 /yeast
 
+.vscode/*
 .DS_Store
-# /public/*
-# static/data/yeast
