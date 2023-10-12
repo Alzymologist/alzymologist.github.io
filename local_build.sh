@@ -4,16 +4,15 @@ function cleanup {
     echo "Cleaning up."
     /bin/rm -rf content/* 
     /bin/rm -rf public/* 
-    /bin/rm -rf static/data/yeast/* 
+    /bin/rm -rf static/yeast-component-output 
 }
 
 trap cleanup EXIT
 
 cleanup
-cp -R fresh_content/* content 
+cp -R content_fresh/* content 
 cd yeast
 cargo run --verbose
-cat output/genealogy.dot | dot -Tsvg > output/genealogy.svg 
-cp -R output/* ../static/data/yeast 
+cp -R output/* ../static/yeast-component-output
 cd .. 
 zola serve

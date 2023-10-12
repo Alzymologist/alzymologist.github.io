@@ -27,7 +27,7 @@ hyde_links = [
     {url = "/info/about", name = "About"},
     {url = "/info/services", name = "Services"},
     {url = "/info/methods", name = "Lab analysis"},
-    {url = "/info/yeast", name = "Yeasts"},
+    {url = "/info/yeasts", name = "Yeasts"},
     {url = "/info/contacts", name = "Contacts"},
     {url = "/info/pricing", name = "Pricing"},
     {url = "/info/gdpr", name = "Privacy policy"},
