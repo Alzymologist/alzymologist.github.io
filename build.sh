@@ -27,15 +27,14 @@ elif [ "$CF_PAGES_BRANCH" == "feature-main" ]; then
     REPO_DIR="yeast"
     REPO_URL="https://github.com/Alzymologist/yeast"
     REPO_BRANCH="feature-2"
-
+  
     mkdir content
-    cp -R fresh_content/* content # Copy fresh content files
+    cp -R content_fresh/* content 
     mkdir $REPO_DIR
     git clone --branch $REPO_BRANCH $REPO_URL $REPO_DIR
-    cd $REPO_DIR
     cargo run --verbose
-    cat output/genealogy.dot | dot -Tsvg > output/genealogy.svg 
-    cp -R output/* ../static/data/yeast # Copy plots to the static directory
-    cd .. # Navigate back 
+    cp -R output/* ../static/yeast-component-output
+    cd .. 
     zola build
+    
 fi
