@@ -32,9 +32,10 @@ elif [ "$CF_PAGES_BRANCH" == "feature-main" ]; then
     cp -R content_fresh/* content 
     mkdir $REPO_DIR
     git clone --branch $REPO_BRANCH $REPO_URL $REPO_DIR
+    cd $REPO_DIR
     cargo run --verbose
     cp -R output/* ../static/yeast-component-output
     cd .. 
     zola build
-    
+
 fi
