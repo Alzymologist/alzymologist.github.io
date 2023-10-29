@@ -1,5 +1,4 @@
-/yeast/*
-/yeast
-
 .vscode/*
 .DS_Store
+/yeast_component/*
+/yeast_component
