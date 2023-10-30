@@ -1,13 +1,13 @@
 # !/bin/bash
 
 if [ "$CF_PAGES_BRANCH" == "main" ]; then
-    echo "Building from main 🔥"
+    echo "Building for PRODUCTION 🔥"
 
     curl https://sh.rustup.rs -sSf | sh -s -- -y # Cargo installation
     source "$HOME/.cargo/env"
     apt install graphviz # Graphviz installation
     
-    REPO_DIR="yeast"
+    REPO_DIR="yeast_component"
     REPO_URL="https://github.com/Alzymologist/yeast"
     REPO_BRANCH="main"
   
@@ -16,19 +16,19 @@ if [ "$CF_PAGES_BRANCH" == "main" ]; then
     mkdir $REPO_DIR
     git clone --branch $REPO_BRANCH $REPO_URL $REPO_DIR
     cd $REPO_DIR
-    cargo run --verbose
+    cargo run -- --production
     cp -R output/* ../static/yeast-component-output
     cd .. 
     zola build
 
 elif [ "$CF_PAGES_BRANCH" == "feature-main" ]; then
-    echo "Building from feature-main 🔥"
+    echo "Building for STAGING 🔥"
 
     curl https://sh.rustup.rs -sSf | sh -s -- -y # Cargo installation
     source "$HOME/.cargo/env"
     apt install graphviz # Graphviz installation
     
-    REPO_DIR="yeast"
+    REPO_DIR="yeast_component"
     REPO_URL="https://github.com/Alzymologist/yeast"
     REPO_BRANCH="feature-2"
   
@@ -37,7 +37,7 @@ elif [ "$CF_PAGES_BRANCH" == "feature-main" ]; then
     mkdir $REPO_DIR
     git clone --branch $REPO_BRANCH $REPO_URL $REPO_DIR
     cd $REPO_DIR
-    cargo run --verbose
+    cargo run -- --staging
     cp -R output/* ../static/yeast-component-output
     cd .. 
     zola build

@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 function cleanup {
     printf "\nCleaning up."
@@ -13,7 +14,7 @@ cleanup
 cp -R content_fresh/* content 
 
 cd yeast_component
-cargo run 
+cargo run -- --local
 cp -R output/* ../static/yeast-component-output
 cd .. 
 zola serve
