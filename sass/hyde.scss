@@ -225,8 +225,8 @@ a.sidebar-nav-item:focus {
 }
 
 .img-placeholder {
-  width: 100%; /* или любая другая ширина, которую вы хотите задать */
-  aspect-ratio: 0.83; /* замените на соотношение сторон вашего изображения */
+  width: 100%; 
+  aspect-ratio: 0.83; 
   overflow: hidden;
 }
 
@@ -234,4 +234,15 @@ a.sidebar-nav-item:focus {
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+.svg-container {
+  width: 75%; 
+  height: 200px; 
+  border: 0; 
+}
+
+.svg-container svg {
+  width: 100%;
+  height: 100%;
 }
