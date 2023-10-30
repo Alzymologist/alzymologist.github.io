@@ -13,7 +13,7 @@ cleanup
 cp -R content_fresh/* content 
 
 cd yeast_component
-cargo run --verbose
+cargo run 
 cp -R output/* ../static/yeast-component-output
 cd .. 
 zola serve
