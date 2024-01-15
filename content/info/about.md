@@ -21,9 +21,9 @@ And we keep going.
 
 Science is dead. Long live science!
 
-We are private academic institution that funds itself.
+We are private academic institution that funds itself through free market.
 
-Some of us left common academic institutions to finally start doing important things instead of pleasing grant committees.
+Some of us left government-funded academic institutions to stop nonsense of pleasing unaccountable Big Brother grant committees.
 
 Some of us left conventional industry to finally start working on something that is not yet obsolete.
 
