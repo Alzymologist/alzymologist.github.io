@@ -3,9 +3,9 @@ title = "Hardware development"
 date = 2024-01-13
 +++
 
-## Contract hardware development
+## Hardware development and consulting
 
-We offer contract hardware development of high complexity. Expertise includes but is not limited to:
+We offer contract hardware development and consulting services for complex projects. Expertise includes but is not limited to:
 
 - Wired/wireless network equipment
 - Radio equipment

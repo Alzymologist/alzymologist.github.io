@@ -29,7 +29,7 @@ Some of us left conventional industry to finally start working on something that
 
 Some of us left financial institutions to make economy efficient instead of robbing it.
 
-We do difficult stuff. Technological problems considered impossible, unmanageble entanglements of technical issues, tasks requiring broad vision.
+We do difficult stuff. Technological problems considered impossible, unmanageable entanglements of technical issues, tasks requiring broad vision.
 
 With many troubles surrounding modern scientific and technological world, old institutions crumbling to pieces, conflicts all around, all we can do is try to survive through diversity. If the world around falls and we still stand, we'll move on with our piece of culture - science and technology. You would do the same, right?
 
