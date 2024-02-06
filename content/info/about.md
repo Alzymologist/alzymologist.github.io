@@ -56,7 +56,7 @@ We believe in building community power through individual development of every p
 * Grow knowledge
 * Create things that did not exist before
 * Make friends and have fun
-* Make science great again
+* Restore science to its former glory
 * Beer, mead, wine
 
 ## About us
