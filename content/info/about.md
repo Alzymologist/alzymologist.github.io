@@ -43,7 +43,7 @@ We value good beer. We value good products and good ideas. Things are meant to l
 
 We value ethics, honesty, humanitarian values.
 
-We value knowledge. Pursuit of knowledge. Experiments and models. Preservation of knowledge.
+We value wisdom. Curiosity. Experiments and models. Preservation of knowledge.
 
 We value minimalism.
 
