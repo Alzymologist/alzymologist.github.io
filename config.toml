@@ -8,7 +8,7 @@ compile_sass = true
 build_search_index = true
 
 title = "Alzymologist Oy"
-description = "Laboratory for microbrewers"
+description = "Mad science and technology"
 generate_feed = true
 
 [markdown]
@@ -21,10 +21,13 @@ hyde_sticky = true
 hyde_reverse = false
 hyde_theme = ""
 hyde_links = [
+    {url = "/", name = "News"},
+    {url = "/info/zymology", name = "Beer and yeast"},
+    {url = "/info/hardware", name = "Hardware"},
+    {url = "/info/software", name = "Software"},
+    {url = "https://kampe.la/", name = "Kampela"},
+    {url = "https://github.com/Alzymologist", name = "Github"},
     {url = "/info/contacts", name = "Contacts"},
-    {url = "/info/services", name = "Services"},
-    {url = "/info/methods", name = "Lab analysis"},
-    {url = "/info/pricing", name = "Pricing"},
     {url = "/info/about", name = "About"},
     {url = "/info/gdpr", name = "Privacy policy"},
 ]
