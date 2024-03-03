@@ -7,8 +7,12 @@
 <ul class="news-list">
   {% for page in section.pages %}
     <li class="news-item">
-      <span class="news-date">{{ page.date | date(format="%B %d, %Y") }}</span>
       <a href="{{ page.permalink | safe }}" class="news-title">{{ page.title }}</a>
+      <div class="post-meta">
+        <span class = "post-info">Posted on <span class="post-date">{{ page.date | date(format="%B %d, %Y") }}</span>
+            <span>by <a href="mailto:{{ page.extra.email | default(value='contact@zymologia.fi') }}">{{ page.extra.author | default(value="Alzymologist") }}</a></span>
+        </span>
+      </div>
     </li>
   {% endfor %}
 </ul>
