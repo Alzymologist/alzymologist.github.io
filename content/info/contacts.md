@@ -1,6 +1,6 @@
 +++
 title = "Contact Alzymologist Oy"
-date = 2023-03-27
+date = 2024-06-21
 +++
 
 ## Our contacts
