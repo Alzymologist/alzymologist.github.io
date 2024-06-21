@@ -21,6 +21,7 @@ hyde_sticky = true
 hyde_reverse = false
 hyde_theme = ""
 hyde_links = [
+    {url = "https://store.zymologia.fi/", name = "Webstore"},
     {url = "/", name = "News"},
     {url = "/info/zymology", name = "Beer and yeast"},
     {url = "/info/hardware", name = "Hardware"},
