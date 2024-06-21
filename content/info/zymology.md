@@ -9,4 +9,6 @@ Pure culture single-cell capture and propagation of yeast cultures from non-ster
 
 ## Yeast library
 
-Liquid live yeast suspensions are available at [webstore](https://store.zymologia.fi/). [Contact us](contact@zymologia.fi) if you don't find what you need there, we probably have it, just need to wake up some!
+Liquid live yeast suspensions are available at [webstore](https://store.zymologia.fi/).
+
+[Contact us](contact@zymologia.fi) if you don't find what you need there, we probably have it, just need to wake up some!
