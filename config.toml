@@ -23,6 +23,8 @@ hyde_theme = ""
 hyde_links = [
     {url = "https://store.zymologia.fi/", name = "Webstore"},
     {url = "/", name = "News"},
+    {url = "https://store.zymologia.fi/", name = "Webstore"},
+    {url = "http://apiologia.zymologia.fi/", name = "Bees"},
     {url = "/info/zymology", name = "Beer and yeast"},
     {url = "/info/hardware", name = "Hardware"},
     {url = "/info/software", name = "Software"},
